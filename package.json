@@ -1,0 +1,23 @@
+{
+  "name": "node_js_practice",
+  "version": "1.0.0",
+  "description": "my practice",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "mongoose": "^6.9.2",
+    "nodemon": "^2.0.20",
+    "uuid": "^9.0.0"
+  }
+}
