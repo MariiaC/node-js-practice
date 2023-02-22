@@ -12,7 +12,7 @@
 
 # 5 services and controllers are done;
 
-# 6 описані ендпоінти;
+# 6 endpoints written;
 
 # 7 worked with files;
 
